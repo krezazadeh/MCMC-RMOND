@@ -49,7 +49,7 @@
 !   https://github.com/krezazadeh/MCMC-RMOND
 !
 ! REFERENCE:
-!   https://arxiv.org/abs/????.?????
+!   https://www.arxiv.org/abs/2511.05632
 !
 ! AUTHOR:
 !   Kazem Rezazadeh
